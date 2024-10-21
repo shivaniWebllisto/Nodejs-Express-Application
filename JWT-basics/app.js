@@ -29,7 +29,3 @@ const start = async () => {
 };
 
 start();
-console.log(false+false);//true
-console.log(1+true); //2
-console.log(1-false);//false 
-console.log(1+'2'-1); //11  
